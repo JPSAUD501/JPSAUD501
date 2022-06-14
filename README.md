@@ -28,6 +28,10 @@
 
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpsaud)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosaudcardoso@gmail.com)
-![Discord](https://dcbadge.vercel.app/api/shield/141957307591426050?theme=discord)
-[![Twitter](https://img.shields.io/badge/JPSAUD501-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jpsaud501)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpsaud501/)
+ ![Discord](https://dcbadge.vercel.app/api/shield/141957307591426050?theme=discord)
+ [![Twitter](https://img.shields.io/badge/JPSAUD501-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jpsaud501)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpsaud501/)
+ 
+ ---
+ 
+![github-snake.svg](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
