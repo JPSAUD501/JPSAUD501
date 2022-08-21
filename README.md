@@ -31,7 +31,3 @@
  [![Twitter](https://img.shields.io/badge/JPSAUD501-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jpsaud501)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpsaud501/)
  ![Discord](https://dcbadge.vercel.app/api/shield/141957307591426050?theme=discord)
- 
- ---
- 
-![github-snake.svg](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
