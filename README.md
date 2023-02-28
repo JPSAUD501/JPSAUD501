@@ -1,6 +1,6 @@
 # 👋 Hello! I'm João Pedro
 
-  Everyday trying to learning new things! A big fan of Javascript and NodeJS!
+  Everyday trying to learning new things! A big fan of Typescript and NodeJS!
 
 ## Skills
 
