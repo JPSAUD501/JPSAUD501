@@ -40,3 +40,5 @@
  ## Daily.dev
 
   <a href="https://app.daily.dev/jpsaud501"><img src="https://api.daily.dev/devcards/ecd74f4ee55440f1913dd79165453b92.png?r=0my" width="300" alt="João Pedro Saud Cardoso's Dev Card"/></a>
+
+<img src="https://damianofalcioni.alwaysdata.net/ipb.php?op=i&tid=596bc74a-c145-458f-8bfa-334e08da7309"/>
