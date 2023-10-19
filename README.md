@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJPSAUD501&label=Visitors&countColor=%23ff8a65&style=flat-square&labelStyle=none)
+![Visits](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJPSAUD501&label=Visits&countColor=%23ff8a65&style=flat-square&labelStyle=none)
 
 # 👋 Hello! I'm João Pedro
 
